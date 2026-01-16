@@ -4,7 +4,7 @@ A clean, formula-driven habit tracker for tracking daily habits and visualizing 
 
 ## Preview
 
-<img width="1646" height="1081" alt="image" src="https://github.com/user-attachments/assets/9ff6ce8a-b1c0-432c-a2f4-25188f3fd417" />
+<img width="1633" height="904" alt="image" src="https://github.com/user-attachments/assets/778610c5-ddc7-4727-8123-8c3139776e3f" />
 
 
 ## Overview
